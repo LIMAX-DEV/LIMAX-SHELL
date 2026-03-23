@@ -26,9 +26,4 @@
 
 ---
 
-## 🚨 Observações de Segurança
 
-- Altere as senhas padrão após o primeiro acesso
-- Não compartilhe as credenciais de administrador
-- A conta `user` deve ser utilizada apenas para consultas
-- Em caso de dúvidas, entre em contato com o administrador do sistema
