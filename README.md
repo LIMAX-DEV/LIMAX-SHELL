@@ -25,5 +25,14 @@
 | **Permissões** | ⚠️ **SOMENTE LEITURA** |
 
 ---
+## ⚖️ ISENÇÃO DE RESPONSABILIDADE
+
+As credenciais fornecidas neste documento são destinadas **exclusivamente para fins de teste, desenvolvimento e ambiente de homologação**. 
+
+- **Não utilize** estas credenciais em ambientes de produção
+- As senhas padrão devem ser alteradas imediatamente após o primeiro acesso
+- O uso inadequado destas credenciais é de inteira responsabilidade do usuário
+- não me responsabilizo por danos, perda de dados ou acessos não autorizados decorrentes do uso destas informações
+
 
 
